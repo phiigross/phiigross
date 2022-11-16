@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm now a student from csust. I'm still learning web knowledge and I made a simple website for my homework. Welcome to my website!
 
 <!--
 **phiigross/phiigross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
